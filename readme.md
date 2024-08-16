@@ -1,3 +1,3 @@
 ## Requires MKVToolsNix
 
-### Set the correct directory and just run it
+### see [main.py](main.py) for example
